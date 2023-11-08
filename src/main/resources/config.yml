@@ -1,0 +1,7 @@
+motd:
+  line1: "Hello!"
+
+messages:
+  - "Welcome to our server!"
+  - "Have a great time here."
+  - "Join our Discord community."

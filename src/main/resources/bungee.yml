@@ -1,0 +1,8 @@
+name: Nuclear MOTD
+version: '${version}'
+main: me.nuclearteam.nuclearmotd.NuclearMOTD
+author: 1mag1n33Dev, CatDev
+
+permissions:
+  - nuclearteam.nuclearmotd.command.setmotd
+  - nuclearteam.nuclearmotd.command.addmessage
